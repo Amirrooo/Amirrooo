@@ -50,7 +50,7 @@ typings/
 
 # TypeScript cache
 *.tsbuildinfo
-int a= 1
+int a= 3
 # Optional npm cache directory
 .npm
 
