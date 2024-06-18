@@ -74,7 +74,7 @@ int a= 3
 
 # dotenv environment variables file
 .env
-.env.test
+.env.test1
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
