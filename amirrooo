@@ -40,7 +40,7 @@ build/Release
 # Nuxt.js build / generate output
 .nuxt
 dist
-a-1
+a-3=x
 
 # Dependency directories
 node_modules/
