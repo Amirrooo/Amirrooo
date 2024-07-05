@@ -23,6 +23,7 @@ b
 # Coverage directory used by tools like istanbul
 coverage
 *.lcov
+*.pid
 
 # nyc test coverage
 .nyc_output
