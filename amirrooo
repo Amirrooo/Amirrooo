@@ -42,7 +42,7 @@ build/Release
 # Nuxt.js build / generate output
 .nuxt
 dist
-intb
+
 # Dependency directories
 node_modules/
 jspm_packages/
