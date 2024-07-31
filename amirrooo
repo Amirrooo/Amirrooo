@@ -63,7 +63,6 @@ b = 1
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
-a-c
 # Optional REPL history
 .node_repl_history
 
