@@ -49,7 +49,7 @@ jspm_packages/
 dist
 # TypeScript v1 declaration files
 typings/
-b = 1
+
 # TypeScript cache
 *.tsbuildinfo
 
