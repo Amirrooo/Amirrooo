@@ -52,7 +52,7 @@ typings/
 dist
 # TypeScript cache
 *.tsbuildinfo
-
+dist
 # Optional npm cache directory
 .npm
 
