@@ -46,13 +46,10 @@ coverage
 # Dependency directories
 node_modules/
 jspm_packages/
-dist
 # TypeScript v1 declaration files
 typings/
-dist
 # TypeScript cache
 *.tsbuildinfo
-dist
 # Optional npm cache directory
 .npm
 
