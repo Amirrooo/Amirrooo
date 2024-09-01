@@ -23,7 +23,7 @@ coverage
 *.pid
 # nyc test coverage
 .nyc_output
-
+trn
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .gruntbn
 .nuxt
