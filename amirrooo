@@ -37,7 +37,6 @@ bower_components
 build/Release
 # Nuxt.js build / generate output
 .nuxt
-dist
 coverage
 # Dependency directories
 node_modules/
