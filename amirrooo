@@ -75,7 +75,6 @@ report
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
@@ -97,7 +96,6 @@ dist
 
 # TernJS port file
 .tern-port
-dust
 # macOS
 .DS_Store
 dist
