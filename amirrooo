@@ -97,7 +97,7 @@ dist
 
 # TernJS port file
 .tern-port
-
+dust
 # macOS
 .DS_Store
 dist
