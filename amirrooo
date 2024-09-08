@@ -72,7 +72,7 @@ report
 .husky
 # Next.js build output
 
-
+.cache
 # Nuxt.js build / generate output
 .nuxt
 
