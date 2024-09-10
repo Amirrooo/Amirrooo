@@ -87,7 +87,6 @@ report
 .public
 # Serverless directories
 .serverless1/
-.next
 # FuseBox cache
 .fusebox/
 
