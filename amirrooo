@@ -93,7 +93,6 @@ int
 .tern-port
 # macOS
 .DS_Store
-dist
 # python
 pycache/
 
