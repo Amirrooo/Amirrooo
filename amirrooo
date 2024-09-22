@@ -28,7 +28,6 @@ trn
 .nuxt
 # Bower dependency directory (https://bower.io/)
 bower_components
-dist
 # node-waf configuration
 .lock-wscript
 # Compiled binary addons (https://nodejs.org/api/addons.html)
