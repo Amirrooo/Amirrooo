@@ -83,7 +83,6 @@ report
 .serverless1/
 # FuseBox cache
 .fusebox/
-int
 # DynamoDB Local files
 .dynamodb/
 
