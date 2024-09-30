@@ -91,7 +91,7 @@ catch
 .DS_Store
 # python
 pycache/
-
+husky
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
 .husky
