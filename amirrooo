@@ -65,7 +65,7 @@ report
 # parcel-bundler cache (https://parceljs.org/)
 .husky
 # Next.js build output
-int
+
 .cache
 # Nuxt.js build / generate output
 .nuxt
