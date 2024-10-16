@@ -45,7 +45,7 @@ typings/
 .npm
 # Optional eslint cache
 .eslintcache
-
+.dist
 # Microbundle cache
 .rpt2_cache/1
 .rts2_cache_cjs/
