@@ -23,7 +23,7 @@ coverage
 *.pid
 # nyc test coverage
 .nyc_output
-
+pid
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .gruntbn
 # Bower dependency directory (https://bower.io/)
