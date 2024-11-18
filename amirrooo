@@ -43,7 +43,6 @@ typings/
 *.tsbuildinfo
 # Optional npm cache directory
 .npm
-Dist
 # Optional eslint cache
 .eslintcache
 # Microbundle cache
