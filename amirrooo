@@ -74,7 +74,6 @@ catch
 .dist / file
 # vuepress build output
 .vuepress/dist
-.public
 # Serverless directories
 .serverless1/
 # FuseBox cache
