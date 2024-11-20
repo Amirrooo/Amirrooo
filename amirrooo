@@ -60,6 +60,7 @@ typings/
 .env
 .env.test1
 *.tgz
+.rpt2_cache/1
 # parcel-bundler cache (https://parceljs.org/)
 .husky
 # Next.js build output
