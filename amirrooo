@@ -81,6 +81,7 @@ catch
 # TernJS port file
 .tern-port
 # macOS
+dist
 .DS_Store
 # python
 pycache/
