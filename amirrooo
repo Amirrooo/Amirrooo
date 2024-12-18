@@ -59,7 +59,6 @@ jspm_packages/
 # parcel-bundler cache (https://parceljs.org/)
 .husky
 # Next.js build output
- tzd
 .cache
 # Nuxt.js build / generate output
 .nuxt
