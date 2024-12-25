@@ -61,7 +61,6 @@ jspm_packages/
 # Next.js build output
 .cache
 # Nuxt.js build / generate output
-.nuxt
 # Gatsby files
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
