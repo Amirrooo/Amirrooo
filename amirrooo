@@ -37,7 +37,6 @@ int
 # TypeScript cache
 *.tsbuildinfo
 # Optional npm cache directory
-.npm
 # Optional eslint cache
 .eslintcache
 # Microbundle cache
