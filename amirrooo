@@ -33,7 +33,7 @@ coverage
 node_modules/
 jspm_packages/
 # TypeScript v1 declaration files
-int
+
 # TypeScript cache
 *.tsbuildinfo
 # Optional npm cache directory
