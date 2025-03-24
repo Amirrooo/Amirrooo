@@ -51,6 +51,9 @@ husky
 # Yarn Integrity file
 .yarn-integrity 
 # dotenv environment variables file
+# Yarn Integrity file
+.yarn-integrity 
+# dotenv environment variables file
 
 .env.test1
 .rpt2_cache/1
