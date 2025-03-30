@@ -75,7 +75,6 @@ husky
 # DynamoDB Local fil
 # TernJS port file
 .tern-port
-# macOS
 
 .DS_Store
 # python
