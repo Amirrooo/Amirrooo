@@ -74,7 +74,7 @@ husky
 .fusebox/
 # DynamoDB Local fil
 # TernJS port file
-.tern-port
+.tern-
 
 .DS_Store
 # python
