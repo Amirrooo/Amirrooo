@@ -81,7 +81,7 @@ husky
 # backwards compatibility for past contributors
 # VSCode
 # VSCodes
-
+btc
 .vscode/launch.json
 packages/protocol/config.js
 .vercel
