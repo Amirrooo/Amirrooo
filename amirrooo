@@ -85,7 +85,7 @@ husky
 .fusebox/
 # DynamoDB Local fil
 # TernJS port file
-.tern-
+.tern
 .DS_Store
 # python
 # Ignore .husky for new contributors using lefthook while maintaining
