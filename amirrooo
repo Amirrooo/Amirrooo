@@ -109,7 +109,26 @@ jspm_packages/
 # backwards compatibility for past contributors
 # VSCode
 # VSCodes gabura
-btc
+
+.env.test1
+.rpt2_cache/1
+# parcel-bundler cache (https://parceljs.org/)
+
+# Next.js build output
+.cache
+# Nuxt.js build / generate output
+# Gatsby files
+# Comment in the public line in if your project uses Gatsby and *not* Next.js
+# https://nextjs.org/blog/next-9-1#public-directory-support
+ / file
+# vuepress build output
+.vuepress/dist
+# Serverless directories
+.serverless1/
+# FuseBox cache
+.fusebox/
+# DynamoDB Local fil
+# TernJS port file
 .vscode/launch.json
 packages/protocol/config.js
 .vercel
