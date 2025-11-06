@@ -112,7 +112,6 @@ jspm_packages/
 .env.test1
 .rpt2_cache/1
 # parcel-bundler cache (https://parceljs.org/)
-
 # Next.js build output
 .cache
 # Nuxt.js build / generate output
