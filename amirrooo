@@ -107,7 +107,6 @@ jspm_packages/
 # VSCode
 # VSCodes gabura
 
-.env.test1
 .rpt2_cache/1
 # parcel-bundler cache (https://parceljs.org/)
 # Next.js build output
