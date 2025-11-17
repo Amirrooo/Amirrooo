@@ -121,7 +121,7 @@ jspm_packages/
  / file
 # vuepress build output
 .vuepress/dist
-# Serverless directories
+
 .serverless1/
 # FuseBox cache
 .fusebox/
