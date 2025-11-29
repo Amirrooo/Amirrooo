@@ -45,7 +45,6 @@ bower_components
 build/Release
 # Nuxt.js build / generate output
 coverage
-
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 # Runtime data
 npm-debug.log*
